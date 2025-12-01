@@ -38,7 +38,15 @@
   </a>
 
 </p>
+---
 
+## 🌐 Live Deployment
+
+The full web application is deployed at:
+
+👉 **https://windturbinebladeoptimization.onrender.com**
+
+---
 
 ## 🌬️ Overview
 This project presents a complete machine-learning–driven pipeline for **wind turbine blade structural behavior prediction and optimization**.  
@@ -97,14 +105,6 @@ All charts saved under `/reports/figures`.
 | **Deployment** | Render.com |
 | **Packaging** | `joblib`, modular Python architecture |
 | **Version Control** | Git + GitHub |
-
----
-
-## 🌐 Live Deployment
-
-The full web application is deployed at:
-
-👉 **https://windturbinebladeoptimization.onrender.com**
 
 ---
 
