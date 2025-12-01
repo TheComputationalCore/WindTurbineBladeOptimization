@@ -234,7 +234,7 @@ This project is open-source under the **MIT License**.
 
 ## ⭐ Acknowledgements
 
-This work is inspired by real-world engineering analysis, structural mechanics, and data-driven digital twin methodologies.
+This work is inspired by real-world engineering analysis, structural mechanics - "Analysis of wind turbine blade using ansys software" - my project during graduation.
 
 If you like this project, consider ⭐ starring the repo!
 
